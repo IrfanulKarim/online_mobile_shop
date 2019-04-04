@@ -1,0 +1,84 @@
+C:\Users\use\source\repos\Finalproj\Finalproj\bin\Debug\Finalproj.exe.config
+C:\Users\use\source\repos\Finalproj\Finalproj\bin\Debug\Finalproj.exe
+C:\Users\use\source\repos\Finalproj\Finalproj\bin\Debug\Finalproj.pdb
+C:\Users\use\source\repos\Finalproj\Finalproj\obj\Debug\Finalproj.csprojResolveAssemblyReference.cache
+C:\Users\use\source\repos\Finalproj\Finalproj\obj\Debug\Finalproj.adminlog.resources
+C:\Users\use\source\repos\Finalproj\Finalproj\obj\Debug\Finalproj.Form1.resources
+C:\Users\use\source\repos\Finalproj\Finalproj\obj\Debug\Finalproj.Properties.Resources.resources
+C:\Users\use\source\repos\Finalproj\Finalproj\obj\Debug\Finalproj.csproj.GenerateResource.Cache
+C:\Users\use\source\repos\Finalproj\Finalproj\obj\Debug\Finalproj.csproj.CoreCompileInputs.cache
+C:\Users\use\source\repos\Finalproj\Finalproj\obj\Debug\Finalproj.exe
+C:\Users\use\source\repos\Finalproj\Finalproj\obj\Debug\Finalproj.pdb
+C:\Users\use\source\repos\Finalproj\Finalproj\obj\Debug\Finalproj.guestpage.resources
+C:\Users\use\Desktop\Finalproj\Finalproj\bin\Debug\Finalproj.exe.config
+C:\Users\use\Desktop\Finalproj\Finalproj\bin\Debug\Finalproj.exe
+C:\Users\use\Desktop\Finalproj\Finalproj\bin\Debug\Finalproj.pdb
+C:\Users\use\Desktop\Finalproj\Finalproj\obj\Debug\Finalproj.csprojResolveAssemblyReference.cache
+C:\Users\use\Desktop\Finalproj\Finalproj\obj\Debug\Finalproj.adminlog.resources
+C:\Users\use\Desktop\Finalproj\Finalproj\obj\Debug\Finalproj.Form1.resources
+C:\Users\use\Desktop\Finalproj\Finalproj\obj\Debug\Finalproj.guestpage.resources
+C:\Users\use\Desktop\Finalproj\Finalproj\obj\Debug\Finalproj.Properties.Resources.resources
+C:\Users\use\Desktop\Finalproj\Finalproj\obj\Debug\Finalproj.csproj.GenerateResource.Cache
+C:\Users\use\Desktop\Finalproj\Finalproj\obj\Debug\Finalproj.csproj.CoreCompileInputs.cache
+C:\Users\use\Desktop\Finalproj\Finalproj\obj\Debug\Finalproj.exe
+C:\Users\use\Desktop\Finalproj\Finalproj\obj\Debug\Finalproj.pdb
+C:\Users\use\Desktop\Finalproj\Finalproj\obj\Debug\Finalproj.adminwrk.resources
+C:\Users\use\Desktop\Finalproj\Finalproj\bin\Debug\mainbasedata.mdf
+C:\Users\use\Desktop\Finalproj\Finalproj\bin\Debug\mainbasedata_log.ldf
+C:\Users\use\Desktop\Finalproj\Finalproj\obj\Debug\Finalproj.applepage.resources
+C:\Users\use\Desktop\Finalproj\Finalproj\obj\Debug\Finalproj.HTC.resources
+C:\Users\use\Desktop\Finalproj\Finalproj\obj\Debug\Finalproj.oppo.resources
+C:\Users\use\Desktop\Finalproj\Finalproj\obj\Debug\Finalproj.samsungpage.resources
+C:\Users\use\Desktop\Finalproj\Finalproj\obj\Debug\Finalproj.XIOMI.resources
+C:\Users\use\Desktop\Finalproj\Finalproj\obj\Debug\Finalproj.agreemnts.resources
+C:\Users\use\Desktop\Finalproj\Finalproj\obj\Debug\Finalproj.cardno.resources
+C:\Users\use\Desktop\Finalproj\Finalproj\obj\Debug\Finalproj.cuctomerchart.resources
+C:\Users\use\Desktop\Finalproj\Finalproj\obj\Debug\Finalproj.orders.resources
+K:\7th semester\C#\FINAL PROJECT\Finalproj\Finalproj\obj\Debug\Finalproj.csprojResolveAssemblyReference.cache
+K:\7th semester\C#\FINAL PROJECT\Finalproj\Finalproj\obj\Debug\Finalproj.adminlog.resources
+K:\7th semester\C#\FINAL PROJECT\Finalproj\Finalproj\obj\Debug\Finalproj.adminwrk.resources
+K:\7th semester\C#\FINAL PROJECT\Finalproj\Finalproj\obj\Debug\Finalproj.agreemnts.resources
+K:\7th semester\C#\FINAL PROJECT\Finalproj\Finalproj\obj\Debug\Finalproj.applepage.resources
+K:\7th semester\C#\FINAL PROJECT\Finalproj\Finalproj\obj\Debug\Finalproj.cardno.resources
+K:\7th semester\C#\FINAL PROJECT\Finalproj\Finalproj\obj\Debug\Finalproj.cuctomerchart.resources
+K:\7th semester\C#\FINAL PROJECT\Finalproj\Finalproj\obj\Debug\Finalproj.Form1.resources
+K:\7th semester\C#\FINAL PROJECT\Finalproj\Finalproj\obj\Debug\Finalproj.guestpage.resources
+K:\7th semester\C#\FINAL PROJECT\Finalproj\Finalproj\obj\Debug\Finalproj.HTC.resources
+K:\7th semester\C#\FINAL PROJECT\Finalproj\Finalproj\obj\Debug\Finalproj.oppo.resources
+K:\7th semester\C#\FINAL PROJECT\Finalproj\Finalproj\obj\Debug\Finalproj.orders.resources
+K:\7th semester\C#\FINAL PROJECT\Finalproj\Finalproj\obj\Debug\Finalproj.Properties.Resources.resources
+K:\7th semester\C#\FINAL PROJECT\Finalproj\Finalproj\obj\Debug\Finalproj.samsungpage.resources
+K:\7th semester\C#\FINAL PROJECT\Finalproj\Finalproj\obj\Debug\Finalproj.XIOMI.resources
+K:\7th semester\C#\FINAL PROJECT\Finalproj\Finalproj\obj\Debug\Finalproj.csproj.GenerateResource.Cache
+K:\7th semester\C#\FINAL PROJECT\Finalproj\Finalproj\obj\Debug\Finalproj.csproj.CoreCompileInputs.cache
+K:\7th semester\C#\FINAL PROJECT\Finalproj\Finalproj\obj\Debug\Finalproj.exe
+K:\7th semester\C#\FINAL PROJECT\Finalproj\Finalproj\obj\Debug\Finalproj.pdb
+K:\7th semester\C#\FINAL PROJECT\Finalproj\Finalproj\bin\Debug\mainbasedata.mdf
+K:\7th semester\C#\FINAL PROJECT\Finalproj\Finalproj\bin\Debug\mainbasedata_log.ldf
+K:\7th semester\C#\FINAL PROJECT\Finalproj\Finalproj\bin\Debug\Finalproj.exe.config
+K:\7th semester\C#\FINAL PROJECT\Finalproj\Finalproj\bin\Debug\Finalproj.exe
+K:\7th semester\C#\FINAL PROJECT\Finalproj\Finalproj\bin\Debug\Finalproj.pdb
+F:\ALL\7th semester\C#\FINAL PROJECT\FINAL PROJECT\Finalproj\Finalproj\bin\Debug\mainbasedata.mdf
+F:\ALL\7th semester\C#\FINAL PROJECT\FINAL PROJECT\Finalproj\Finalproj\bin\Debug\mainbasedata_log.ldf
+F:\ALL\7th semester\C#\FINAL PROJECT\FINAL PROJECT\Finalproj\Finalproj\bin\Debug\Finalproj.exe.config
+F:\ALL\7th semester\C#\FINAL PROJECT\FINAL PROJECT\Finalproj\Finalproj\bin\Debug\Finalproj.exe
+F:\ALL\7th semester\C#\FINAL PROJECT\FINAL PROJECT\Finalproj\Finalproj\bin\Debug\Finalproj.pdb
+F:\ALL\7th semester\C#\FINAL PROJECT\FINAL PROJECT\Finalproj\Finalproj\obj\Debug\Finalproj.csprojAssemblyReference.cache
+F:\ALL\7th semester\C#\FINAL PROJECT\FINAL PROJECT\Finalproj\Finalproj\obj\Debug\Finalproj.adminlog.resources
+F:\ALL\7th semester\C#\FINAL PROJECT\FINAL PROJECT\Finalproj\Finalproj\obj\Debug\Finalproj.adminwrk.resources
+F:\ALL\7th semester\C#\FINAL PROJECT\FINAL PROJECT\Finalproj\Finalproj\obj\Debug\Finalproj.agreemnts.resources
+F:\ALL\7th semester\C#\FINAL PROJECT\FINAL PROJECT\Finalproj\Finalproj\obj\Debug\Finalproj.applepage.resources
+F:\ALL\7th semester\C#\FINAL PROJECT\FINAL PROJECT\Finalproj\Finalproj\obj\Debug\Finalproj.cardno.resources
+F:\ALL\7th semester\C#\FINAL PROJECT\FINAL PROJECT\Finalproj\Finalproj\obj\Debug\Finalproj.cuctomerchart.resources
+F:\ALL\7th semester\C#\FINAL PROJECT\FINAL PROJECT\Finalproj\Finalproj\obj\Debug\Finalproj.Form1.resources
+F:\ALL\7th semester\C#\FINAL PROJECT\FINAL PROJECT\Finalproj\Finalproj\obj\Debug\Finalproj.guestpage.resources
+F:\ALL\7th semester\C#\FINAL PROJECT\FINAL PROJECT\Finalproj\Finalproj\obj\Debug\Finalproj.HTC.resources
+F:\ALL\7th semester\C#\FINAL PROJECT\FINAL PROJECT\Finalproj\Finalproj\obj\Debug\Finalproj.oppo.resources
+F:\ALL\7th semester\C#\FINAL PROJECT\FINAL PROJECT\Finalproj\Finalproj\obj\Debug\Finalproj.orders.resources
+F:\ALL\7th semester\C#\FINAL PROJECT\FINAL PROJECT\Finalproj\Finalproj\obj\Debug\Finalproj.Properties.Resources.resources
+F:\ALL\7th semester\C#\FINAL PROJECT\FINAL PROJECT\Finalproj\Finalproj\obj\Debug\Finalproj.samsungpage.resources
+F:\ALL\7th semester\C#\FINAL PROJECT\FINAL PROJECT\Finalproj\Finalproj\obj\Debug\Finalproj.XIOMI.resources
+F:\ALL\7th semester\C#\FINAL PROJECT\FINAL PROJECT\Finalproj\Finalproj\obj\Debug\Finalproj.csproj.GenerateResource.cache
+F:\ALL\7th semester\C#\FINAL PROJECT\FINAL PROJECT\Finalproj\Finalproj\obj\Debug\Finalproj.csproj.CoreCompileInputs.cache
+F:\ALL\7th semester\C#\FINAL PROJECT\FINAL PROJECT\Finalproj\Finalproj\obj\Debug\Finalproj.exe
+F:\ALL\7th semester\C#\FINAL PROJECT\FINAL PROJECT\Finalproj\Finalproj\obj\Debug\Finalproj.pdb
